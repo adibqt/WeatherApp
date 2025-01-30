@@ -1,4 +1,4 @@
-#city {
+.city {
     background-color: #f1f1f1;
     margin: 10px auto;
     border-radius: 10px;
@@ -79,8 +79,6 @@ p{
 
 .weatherEmoji{
     font-size: 3rem;
-    margin: 10px 0;
-    margin-bottom: 25px;
 }
 
 
